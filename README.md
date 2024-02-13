@@ -17,3 +17,8 @@ Introducing the Glimmerkin, beings of ethereal beauty and delicate resilience, e
 🟥 Sunlight Aversion: Despite their ethereal nature, Glimmerkin possess a strong aversion to direct sunlight, experiencing unease and vulnerability when exposed to its rays. This discomfort slows them down and makes them more susceptible to harm.
 
 (Inspired By Dori's Crystalborne Datapack)
+
+Additional Credit:
+Mai - Main Development
+Aiur/Jade/Tsu - Major Help Format and Development
+Haxxy - Water Condition Assistance
