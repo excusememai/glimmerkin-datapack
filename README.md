@@ -19,6 +19,6 @@ Introducing the Glimmerkin, beings of ethereal beauty and delicate resilience, e
 (Inspired By Dori's Crystalborne Datapack)
 
 Additional Credit:
-Mai - Main Development
-Aiur/Jade/Tsu - Major Help Format and Development
-Haxxy - Water Condition Assistance
+Main Development and Concept Design and Programming - Mai
+Concept Help and Code Assistance - Dori (Crystalborne)
+Syntax Fixer and Formatting Help - TheLuxuryShovel
